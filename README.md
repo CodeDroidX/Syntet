@@ -38,6 +38,7 @@
 ```bat
 pip install colorama
 pip install googletrans==3.1.0a0
+pip intsall Levenshtein
 ```
 # Запускаете прогу, следуете инструкциям
 ## Процентики которые пойдут - изменения в тексте
